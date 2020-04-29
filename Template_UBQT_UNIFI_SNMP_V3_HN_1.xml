@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zabbix_export>
-    <version>3.4</version>
+    <version>4.0</version>
     <date>2020-04-16T23:15:16Z</date>
     <groups>
         <group>
