@@ -44,6 +44,9 @@ based on Alex Moura</description>
                 <application>
                     <name>Virtual Interfaces</name>
                 </application>
+                <application>
+                    <name>LAN Port</name>
+                </application>
             </applications>
             <items>
                 <item>
