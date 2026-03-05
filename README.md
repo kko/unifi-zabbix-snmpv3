@@ -2,6 +2,8 @@
 Unifi AP Zabbix SNMPv3  
 based on Alex Mouras work https://share.zabbix.com/network_devices/ubiquiti/unifi-snmp-2019-v1-1  
 
+tested with zabbix 7.4 / 2026
+
 Ubiquity Controller > Settings > Services > SNMP v3 > enable, set $username and $passwort  
 
 Zabbix settings<br>
